@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\MaritimeHRSystem\Transfer\bin\Debug\Transfer.dll
+C:\Users\user\source\repos\MaritimeHRSystem\Transfer\bin\Debug\Transfer.pdb
+C:\Users\user\source\repos\MaritimeHRSystem\Transfer\obj\Debug\Transfer.csprojAssemblyReference.cache
+C:\Users\user\source\repos\MaritimeHRSystem\Transfer\obj\Debug\Transfer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MaritimeHRSystem\Transfer\obj\Debug\Transfer.dll
+C:\Users\user\source\repos\MaritimeHRSystem\Transfer\obj\Debug\Transfer.pdb
